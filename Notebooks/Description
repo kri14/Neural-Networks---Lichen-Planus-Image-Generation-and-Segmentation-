@@ -1,0 +1,5 @@
+This  folder consists :
+1. Classification Task : Binary and Multi-class Classification 
+2. Image Segmentation : UNet 
+3. Image Generation : DCgan, Wgan, StyleGan
+4. Image Translation : Pix2pix, CycleGan
