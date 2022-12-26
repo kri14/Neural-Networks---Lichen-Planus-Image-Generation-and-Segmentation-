@@ -1,0 +1,13 @@
+1. Data set Collection for Lichen Planus    
+2. Cropping and  Cleaning 
+3. Image Annotation using labelme
+4. GAN :
+    1. DC GAN (FAST-AI)
+    2. GAN Linear Layers
+    3. W-gan
+    4. Style GAN
+    5. PIx2Pix 
+5. UNET  
+6. Classification - Binary and Multiclass 
+7. Report and Metrics 
+8. Web 
