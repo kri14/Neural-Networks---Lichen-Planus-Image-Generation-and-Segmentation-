@@ -11,3 +11,11 @@
 6. Classification - Binary and Multiclass 
 7. Report and Metrics 
 8. Web 
+
+
+
+This work is combined effort of :
+
+1. Dhriti Bhasin (co19321) : Report, Image Processing for Pix2Pix, Pix2pix, GAN Fastai
+2. Karan (co19332) : Report , Style Gan, Classification, GAN Linear-Layer
+3. Kriti Aggarwal (co19335) : Data Collection, Annotation using Label Me, UNET, DC-wgan
