@@ -1,0 +1,5 @@
+1. Lichen Planus Binary : Contains the images of cutaneous and oral lichen planus 
+2. Lichen Planus Multiclass : Contains other skin based lichen planus classes 
+3. Cropped Images : Contains images cropped and pre-processed for training of GANS
+4. annotated : contatins annotated masks using labelme
+5. Combined : Contains the preprocessed files for pix2pix model.
